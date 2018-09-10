@@ -1,5 +1,5 @@
 package com.bean;
-//git�ύ����commit and push
+//我又来改东西了，在远程仓库，Internet
 public class Score {
 	private String subjectName;
 	private int score;
