@@ -1,5 +1,5 @@
 package com.bean;
-//我又来改东西了，在远程仓库，Internet
+//very nice
 public class Score {
 	private String subjectName;
 	private int score;
