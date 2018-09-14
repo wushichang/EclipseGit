@@ -1,5 +1,5 @@
 package com.bean;
-//gitÌá½»²Ù×÷commit and push
+//very nice
 public class Score {
 	private String subjectName;
 	private int score;
