@@ -1,9 +1,9 @@
 package com.yidu.bean;
-
+//this file was changed from Internet
 public class Child {
-	private String id;   //½ÚµãID£¬¶Ô¼ÓÔØÔ¶³ÌÊı¾İºÜÖØÒª
-    private String text; //ÏÔÊ¾½ÚµãÎÄ±¾ 
-    private boolean checked; //±íÊ¾¸Ã½ÚµãÊÇ·ñ±»Ñ¡ÖĞ
+	private String id;   //èŠ‚ç‚¹IDï¼Œå¯¹åŠ è½½è¿œç¨‹æ•°æ®å¾ˆé‡è¦
+    private String text; //æ˜¾ç¤ºèŠ‚ç‚¹æ–‡æœ¬ 
+    private boolean checked; //è¡¨ç¤ºè¯¥èŠ‚ç‚¹æ˜¯å¦è¢«é€‰ä¸­
 	public String getId() {
 		return id;
 	}
