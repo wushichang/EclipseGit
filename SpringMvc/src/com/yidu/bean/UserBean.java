@@ -1,5 +1,6 @@
 package com.yidu.bean;
 //changed from Internet
+//changed from user
 public class UserBean {
 	private String userName;//ÕËºÅ
 	private String userPass;//ÃÜÂë
