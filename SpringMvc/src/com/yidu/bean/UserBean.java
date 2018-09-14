@@ -1,8 +1,8 @@
 package com.yidu.bean;
-
+//changed from Internet
 public class UserBean {
-	private String userName;//ÕËºÅ
-	private String userPass;//ÃÜÂë
+	private String userName;//Ã•Ã‹ÂºÃ…
+	private String userPass;//ÃƒÃœÃ‚Ã«
 	public String getUserName() {
 		return userName;
 	}
